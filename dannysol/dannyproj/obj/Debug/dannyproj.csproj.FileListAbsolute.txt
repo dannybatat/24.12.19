@@ -1,0 +1,13 @@
+C:\Users\HackerU\source\repos\dannysol\dannyproj\obj\Debug\dannyproj.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\dannysol\dannyproj\obj\Debug\dannyproj.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\dannysol\dannyproj\bin\Debug\dannyproj.exe.config
+C:\Users\HackerU\source\repos\dannysol\dannyproj\bin\Debug\dannyproj.exe
+C:\Users\HackerU\source\repos\dannysol\dannyproj\bin\Debug\dannyproj.pdb
+C:\Users\HackerU\source\repos\dannysol\dannyproj\obj\Debug\dannyproj.exe
+C:\Users\HackerU\source\repos\dannysol\dannyproj\obj\Debug\dannyproj.pdb
+D:\homework\dannysol\dannyproj\bin\Debug\dannyproj.exe.config
+D:\homework\dannysol\dannyproj\bin\Debug\dannyproj.exe
+D:\homework\dannysol\dannyproj\bin\Debug\dannyproj.pdb
+D:\homework\dannysol\dannyproj\obj\Debug\dannyproj.csprojAssemblyReference.cache
+D:\homework\dannysol\dannyproj\obj\Debug\dannyproj.exe
+D:\homework\dannysol\dannyproj\obj\Debug\dannyproj.pdb

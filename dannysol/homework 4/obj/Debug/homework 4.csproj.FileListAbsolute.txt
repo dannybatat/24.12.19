@@ -1,0 +1,6 @@
+D:\homework\dannysol\homework 4\obj\Debug\homework 4.csprojAssemblyReference.cache
+D:\homework\dannysol\homework 4\bin\Debug\homework 4.exe.config
+D:\homework\dannysol\homework 4\bin\Debug\homework 4.exe
+D:\homework\dannysol\homework 4\bin\Debug\homework 4.pdb
+D:\homework\dannysol\homework 4\obj\Debug\homework 4.exe
+D:\homework\dannysol\homework 4\obj\Debug\homework 4.pdb

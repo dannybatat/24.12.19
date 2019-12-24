@@ -1,0 +1,6 @@
+D:\homework\dannysol\hw6\bin\Debug\hw6.exe.config
+D:\homework\dannysol\hw6\bin\Debug\hw6.exe
+D:\homework\dannysol\hw6\bin\Debug\hw6.pdb
+D:\homework\dannysol\hw6\obj\Debug\hw6.csprojAssemblyReference.cache
+D:\homework\dannysol\hw6\obj\Debug\hw6.exe
+D:\homework\dannysol\hw6\obj\Debug\hw6.pdb

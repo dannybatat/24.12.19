@@ -1,0 +1,6 @@
+D:\homework\dannysol\home\bin\Debug\home.exe.config
+D:\homework\dannysol\home\bin\Debug\home.exe
+D:\homework\dannysol\home\bin\Debug\home.pdb
+D:\homework\dannysol\home\obj\Debug\home.exe
+D:\homework\dannysol\home\obj\Debug\home.pdb
+D:\homework\dannysol\home\obj\Debug\home.csprojAssemblyReference.cache

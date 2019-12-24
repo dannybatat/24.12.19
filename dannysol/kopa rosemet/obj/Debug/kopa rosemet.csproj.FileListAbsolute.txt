@@ -1,0 +1,6 @@
+D:\homework\dannysol\kopa rosemet\obj\Debug\kopa rosemet.csprojAssemblyReference.cache
+D:\homework\dannysol\kopa rosemet\bin\Debug\kopa rosemet.exe.config
+D:\homework\dannysol\kopa rosemet\bin\Debug\kopa rosemet.exe
+D:\homework\dannysol\kopa rosemet\bin\Debug\kopa rosemet.pdb
+D:\homework\dannysol\kopa rosemet\obj\Debug\kopa rosemet.exe
+D:\homework\dannysol\kopa rosemet\obj\Debug\kopa rosemet.pdb
